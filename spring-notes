@@ -1,0 +1,15 @@
+## Module 1. Introduction to Spring
+- Overview
+
+  - Spring as a solution for business logic implementation
+  - Sprig architecture
+  - Spring in different tiers
+  - Spring’s light weight container
+
+## What is Spring framework?
+- Light weight, Open source framework for developing Enterprise Grade Application.
+- Developed in 2004 by Rode Johnson
+- Lightweight, Simple solution to compete EJB
+- Provides light weight container to create objects lazily, singleton
+- Declarative plumbing, transaction, security and logging.
+
